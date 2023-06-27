@@ -1,0 +1,45 @@
+# awesome-frontend-trivia
+Hi, below you will find a collection of interesting resources to help you learn frontend.
+
+## Contents
+- [Basic courses](#basics-courses)
+- [Practice tasks](#practice-tasks)
+- [Technical documentation](#technical-documentation)
+- [Helpful links](#helpful-links)
+- [Other](#other)
+
+## Basic courses
+
+- [MMCSchool](https://mmcschool.pl/#courses) - Cool and clearly explained basics of HTML, CSS and JS.
+- [Git](https://www.youtube.com/watch?v=D6EI7EbEN4Q&list=PLjHmWifVUNMKIGHmaGPVqSD-L6i1Zw-MH) - A quick introduction to working with Git.
+- [Flexbox](https://flexboxfroggy.com) - A game to help you learn flexbox.
+- [Grid](https://cssgridgarden.com) - A game to help you learn grid.
+
+## Practice tasks
+
+- [Frontend Mentor](https://www.frontendmentor.io/challenges) - Practical tasks at each level.
+- [Codewars](https://www.codewars.com) - Tasks to be performed in each programming language.
+- [Invo Academy](https://platform.invo.academy) - Learning platform with interesting projects.
+
+## Technical documentation
+
+- [MDN](https://developer.mozilla.org) - MDN is Mozilla's platform for developers, with documentation and tools for creating web applications.
+- [Bootstrap](https://getbootstrap.com) - Bootstrap is a popular front-end framework that provides a set of pre-built components and CSS styles.
+- [React](https://pl.legacy.reactjs.org) - React is one of the JavaScript libraries for building user interfaces to create dynamic and effective web applications.
+- [Vue](https://vuejs.org) - Vue is a JavaScript framework for creating user interfaces that is easy to use, flexible and focuses on responsiveness and a declarative approach.
+
+## Helpful links
+
+- [CSS Colors](https://www.quackit.com/css/color/charts/css_color_names_chart.cfm) - Full list of the official named colors from the CSS specification.
+- [Gradient Generator](https://www.quackit.com/css/color/tools/css_gradient_generator.cfm) - Gradient generator.
+- [Animations](https://animista.net) - Animation generator for the website.
+- [Icons](https://tabler-icons.io) - Free icon database.
+- [Pixabay](https://pixabay.com) - Free picture database.
+
+## Other
+
+- [Leonardo](https://app.leonardo.ai) - Leonardo.io is a digital experience design tool, images that integrates various functions, an interesting alternative to Midjurney.
+- [Helloroman](https://www.youtube.com/@helloroman) - Youtube channel with news and courses from the world of programming.
+- [Typescale](https://typescale.com) - Typescale is a tool for designers and developers to experiment with different typographic scales to choose the right font sizes for graphic design and web pages.
+- [Figma](https://www.figma.com) - Figma is a user interface design platform that enables team collaboration, interaction prototyping and vector graphics, all in one tool.
+- [Tinypng](https://tinypng.com) - An image compression tool that automatically reduces the size of image files while maintaining the highest possible image quality.
